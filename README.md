@@ -1,3 +1,2 @@
 # SquidGame
-Jeu squid game python
-Nasser est trop beau
+**Le but de ce projet est de créer les minis jeux de Squid Game**
